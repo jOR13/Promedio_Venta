@@ -1,0 +1,26 @@
+{
+  "id": "46dd357e-a957-4ec6-bfa0-c9fb2cfed73a",
+  "name": "Promedio_Venta",
+  "publisher": "HG_DEVS",
+  "version": "1.0.0.2",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 80100,
+      "to": 90156
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Promedio_Venta.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
