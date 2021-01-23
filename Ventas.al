@@ -9,7 +9,7 @@ query 80162 Ventas
 
 
         {
-            DataItemTableFilter = "Entry Type" = filter(= 'Sale'), Quantity = filter(<> '-1'), Quantity = filter(<> '1');
+            DataItemTableFilter = "Entry Type" = filter(= 'Sale'), Quantity = filter(<> '-1'), Quantity = filter(<> '1'), Quantity = filter(<> '-7.605');
 
             column(Document_No_; "Document No.")
             {
