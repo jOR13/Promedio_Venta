@@ -6,13 +6,14 @@
             "request": "launch",
             "type": "al",
             "environmentType": "Sandbox",
-            "environmentName": "s1",
-            "startupObjectId": 22,
-            "startupObjectType": "Page",
+            "environmentName": "sandbox",
+            "startupObjectId": 32,
+            "startupObjectType": "Table",
             "breakOnError": true,
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
-            "enableSqlInformationDebugger": true
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "Recreate"
         }
     ]
 }
